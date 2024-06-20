@@ -31,3 +31,4 @@
 - Parameters are variables that allows us to pass arguments to our function
 - Positional Arguments: Arguments that are passed to a function in the correct positional 
 - Default Arguments / Optional Parameters: Parameters that assume 
+- Keyword Arguments: Arguments that are passed to a function by explicitly stating the parameter name.
